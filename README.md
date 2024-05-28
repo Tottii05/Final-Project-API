@@ -24,3 +24,6 @@ NodeJS
 
 
 ## Endpoints
+
+Home
+![Logo de GitHub](scr/home)
