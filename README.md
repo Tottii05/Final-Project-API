@@ -33,3 +33,6 @@ NodeJS
 
 ### Scores
 ![Logo de GitHub](src/Scores.PNG)
+
+### Profile 
+![Logo de GitHub](src/Profile.PNG)
