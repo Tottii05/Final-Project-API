@@ -26,4 +26,4 @@ NodeJS
 ## Endpoints
 
 Home
-![Logo de GitHub](scr/home)
+![Logo de GitHub](scr/Home.PNG)
