@@ -26,7 +26,7 @@ Mediante el módulo de database la API se conecta a la base de datos para hacer 
 ## Endpoints
 
 ### Home
-![Logo de GitHub](src/Home.PNG)
+![Logo de GitHub](src/NewHome.PNG)
 
 ### Login
 ![Logo de GitHub](src/Login.PNG)
