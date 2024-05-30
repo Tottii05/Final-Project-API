@@ -21,7 +21,7 @@ NodeJS
 - - Html y CSS plano
 
 ## ¿Cómo se utiliza?
-
+Mediante el módulo de database la API se conecta a la base de datos para hacer sus funciones de CRUD, en función de lo que se pida, hacer SELECT, INSERT, UPDATE, etc. Una vez hecha la consulta la almacena en un fichero JSON el cual el modulo WebSocket se encargará de mandárselo al módulo Web sin que se pierda información por el camino. Finalmente el módulo Web se encargará de mostrar toda la información que ha recibido mediante el JSON y los mostrará en los diferentes endpoints que contiene.
 
 ## Endpoints
 
