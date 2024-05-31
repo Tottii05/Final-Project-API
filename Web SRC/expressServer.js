@@ -26,10 +26,6 @@ module.exports = class expressServer {
             res.sendFile('profile.html', { root: 'public' });
         });
         
-        app.get('/admin', (req, res) => {
-            res.sendFile('admin.html', { root: 'public' });
-        });
-        
         app.listen(80, "0.0.0.0", () => {
             console.log('Express webserver started on http://0.0.0.0:80');
         });
